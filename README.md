@@ -1,0 +1,3 @@
+A modern and responsive To-Do List web application built using HTML5, CSS3, and JavaScript. This project demonstrates complete CRUD (Create, Read, Update, Delete) operations while utilizing the browser's Local Storage API for data persistence. Users can efficiently manage daily tasks by adding, editing, deleting, and marking tasks as completed, with all data automatically saved and restored even after refreshing or closing the browser.
+
+The application follows a state-driven approach where the user interface dynamically updates based on changes in the task list. It also includes advanced filtering options to display All, Active, or Completed tasks, providing an organized and user-friendly task management experience.
